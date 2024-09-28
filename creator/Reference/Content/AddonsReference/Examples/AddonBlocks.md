@@ -686,13 +686,13 @@ Listed below are the available blocks for use in Minecraft: Bedrock Edition.
 | minecraft:light_blue_candle |
 | minecraft:light_blue_candle_cake |
 | minecraft:light_blue_carpet |
-| minecraft_light_blue_concrete |
-| minecraft_light_blue_concrete_powder |
+| minecraft:light_blue_concrete |
+| minecraft:light_blue_concrete_powder |
 | minecraft:light_blue_glazed_terracotta |
-| minecraft_light_blue_shulker_box |
-| minecraft_light_blue_stained_glass |
-| minecraft_light_blue_stained_glass_pane |
-| minecraft_light_blue_terracotta |
+| minecraft:light_blue_shulker_box |
+| minecraft:light_blue_stained_glass |
+| minecraft:light_blue_stained_glass_pane |
+| minecraft:light_blue_terracotta |
 | minecraft:light_blue_wool|
 | minecraft:light_gray_candle |
 | minecraft:light_gray_candle_cake |
